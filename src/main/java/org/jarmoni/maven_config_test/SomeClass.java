@@ -11,6 +11,7 @@ public class SomeClass {
 		// just for test formatting...
 		int k = 10;
 		try {
+
 			k = 5;
 		}
 		catch (final Exception ex) {
